@@ -5,3 +5,6 @@
 
 ### PR 分割 その 1
 https://github.com/Saza-ku/git-gomakashi/tree/pr-split
+
+### PR 分割 その 2
+https://github.com/Saza-ku/git-gomakashi/tree/pr-split-second
